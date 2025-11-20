@@ -29,6 +29,11 @@
 
 - [javaee-springboot-course-labs](https://github.com/setstudent/javaee-springboot-course-labs)  
   Java EE / Spring Boot 課程上課練習集合（week1～week5），包含 Servlet/JSP、Spring MVC、JPA、Spring Boot、前端 HTML/CSS/jQuery 等。
+  
+## 🧪 個人小專案
+
+- [onlineshopping-mini-project](https://github.com/setstudent/onlineshopping-mini-project)  
+  Java Swing + MySQL 模擬電商購物車小專案，包含會員登入、商品列表、購物車、結帳與訂單紀錄等功能。
 
 
 ---
@@ -44,3 +49,4 @@
 ## 📫 聯絡方式
 
 - a0917909851@gmail.com
+- qazwsxedcrfv0222@gmail.com
