@@ -27,8 +27,6 @@
 
 ## 📚 上課練習與範例
 
-## 📚 上課練習與範例
-
 - [javaee-springboot-course-labs](https://github.com/setstudent/javaee-springboot-course-labs)  
   Java EE / Spring Boot 課程上課練習集合（week1～week5），包含 Servlet/JSP、Spring MVC、JPA、Spring Boot、前端 HTML/CSS/jQuery 等。
 
