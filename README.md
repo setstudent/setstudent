@@ -1,4 +1,5 @@
 # 嗨，我是 Barry 👋
+目前專注在 **Java 後端 / Spring Boot 電商系統開發**，正在尋找 Junior Java 後端工程師相關職缺。
 
 - 🎯 主要領域：Java 後端開發、RESTful API、資料庫設計（MySQL）
 - 🧱 開發經驗：分層架構（DAO / Service / Controller）、Spring Boot、JAX-RS、JPA、前端簡易整合
@@ -33,10 +34,11 @@
 ## 🧩 個人小專案
 
 - [onlineshopping-mini-project](https://github.com/setstudent/onlineshopping-mini-project)  
-  Java Swing + MySQL 模擬電商購物流程，包含會員登入、商品瀏覽、購物車與訂單功能。
+  Java Swing + MySQL 電商購物流程練習專案，實作會員登入、商品瀏覽、購物車與訂單建立等功能。
 
 - [shopping-admin](https://github.com/setstudent/shopping-admin)  
-  Spring Boot 全端電商平台合作專案（fork 自 eric888fc/momotea），主要負責 ADMIN 後台：權限控管、JWT 驗證、管理員登入流程、報表匯出與銷售業績視覺化等功能。
+  Spring Boot 全端電商平台合作專案（fork 自 eric888fc/momotea）。  
+  我主要負責 **ADMIN 後台**：包含權限控管與 JWT 驗證、管理員登入流程、業績儀表板、報表匯出與買賣家帳號管理等功能。
 
 
 ---
